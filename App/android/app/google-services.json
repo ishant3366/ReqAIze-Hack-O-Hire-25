@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082633324628",
+    "project_id": "reqaize-698c3",
+    "storage_bucket": "reqaize-698c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082633324628:android:ee4f09111dca1af09385c1",
+        "android_client_info": {
+          "package_name": "com.example.reqaize"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQhJEedidPr-tgEEls4LDCf2xEMlWGt-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
