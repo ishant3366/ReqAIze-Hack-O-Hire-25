@@ -44,6 +44,8 @@ ReqAize is a web application with Jira integration capabilities that allows user
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
+5. Website -:  https://reqai-website-de.vercel.app
+
 ## Jira Integration
 
 This project comes with pre-configured Jira credentials in the `next.config.mjs` file, so you can use the Jira integration immediately without setting up your own Jira application.
